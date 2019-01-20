@@ -1,3 +1,3 @@
 # Overview.
 
-This repository demonstrates how to use git for *software development process* and *collaboration* among programmers. We will use a set of git commands to facilitate this procedure.
+This repository demonstrates how to use git for software development lifecycle process and collaboration among developers. We will use a set of git commands to facilitate this procedure.
