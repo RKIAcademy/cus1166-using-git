@@ -5,3 +5,6 @@ This repository showcase how to use git for **software development process** and
 
 # Feature for use-case-001 was implemented.
 The feature include this text.
+
+
+# Feature for use-case-002 was implemented
