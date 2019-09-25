@@ -7,4 +7,8 @@ This repository showcase how to use git for **software development process** and
 The feature include this text.
 
 
+
+# Other Feature
+
+
 # Feature for use-case-002 was implemented
